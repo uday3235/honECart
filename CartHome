@@ -1,0 +1,14 @@
+{
+  "Allitems": [
+    {
+      "Name": "CT40",
+      "Image": "CT40",
+      "Price": "999",
+      "CurrencyType" :"$",
+      "Type": "mobile",
+      "cost": "500",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "4.8"
+    }
+    ]
+    }
