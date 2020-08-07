@@ -142,7 +142,7 @@
       "Image": "Xenon1902g",
       "Price": "139",
       "CurrencyType" :"$",
-      "Type": "mobile",
+      "Type": "scanner",
      "Description": "Designed for retail store associates and highly mobile workers",
       "Rating": "4.4"
     }
