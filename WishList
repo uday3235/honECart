@@ -1,0 +1,34 @@
+{
+  "MyWishList": [
+    {
+      "Name": "CT40",
+      "Image": "CT40",
+      "Price": "9999",
+      "CurrencyType" :"$",
+      "Quantity":"10",
+      "Vendor": "ISV Enterprises",
+       "Status": "In transit",
+       "Date":"08 Aug 2020"
+      
+    },
+      {
+      "Name": "CK75",
+      "Image": "CK75",
+      "Price": "10899",
+      "CurrencyType" :"$",
+      "Quantity":"50",
+      "Vendor": "ISV Enterprises",
+       "Status": "Delivered",
+       "Date":"31 Jul 2020"
+    },  {
+      "Name": "CN80",
+      "Image": "CN80",
+      "Price": "8190",
+      "CurrencyType" :"$",
+      "Quantity":"60",
+      "Vendor": "ISV Enterprises",
+       "Status": "Delivered",
+       "Date":"02 Apr 2020"
+    }
+    ]
+    }
