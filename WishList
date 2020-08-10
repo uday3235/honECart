@@ -1,34 +1,62 @@
 {
   "MyWishList": [
+
     {
-      "Name": "CT40",
-      "Image": "CT40",
-      "Price": "9999",
+      "Name": "E Class Mark Desktop AR Code Printer",
+      "Image": "eclassmarkdesktoparcodeprinter",
+      "Price": "299",
       "CurrencyType" :"$",
-      "Quantity":"10",
-      "Vendor": "ISV Enterprises",
-       "Status": "In transit",
-       "Date":"08 Aug 2020"
-      
-    },
-      {
-      "Name": "CK75",
-      "Image": "CK75",
-      "Price": "10899",
-      "CurrencyType" :"$",
-      "Quantity":"50",
-      "Vendor": "ISV Enterprises",
-       "Status": "Delivered",
-       "Date":"31 Jul 2020"
+      "Type": "printer",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "3.5"
     },  {
-      "Name": "CN80",
-      "Image": "CN80",
-      "Price": "8190",
+      "Name": "Genesis G",
+      "Image": "genesisg",
+      "Price": "299",
       "CurrencyType" :"$",
-      "Quantity":"60",
-      "Vendor": "ISV Enterprises",
-       "Status": "Delivered",
-       "Date":"02 Apr 2020"
+      "Type": "scanner",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "3.9"
+    },  {
+      "Name": "Granit 1280i",
+      "Image": "Granit1280i",
+      "Price": "381",
+      "CurrencyType" :"$",
+      "Type": "scanner",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "3.8"
+    },  {
+      "Name": "Granot ISR",
+      "Image": "granitisr",
+      "Price": "99",
+      "CurrencyType" :"$",
+      "Type": "scanner",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "4.2"
+    },  {
+      "Name": "Industrial Printers",
+      "Image": "IndustrialPrinters",
+      "Price": "2999",
+      "CurrencyType" :"$",
+      "Type": "printer",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "4.8"
+    },  {
+      "Name": "PR3 & PR2 Mobile Receipt Printers",
+      "Image": "PR3PR2MobileReceiptPrinters",
+      "Price": "7999",
+      "CurrencyType" :"$",
+      "Type": "printer",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "3.8"
+    },  {
+      "Name": "SF 61b Scanner",
+      "Image": "SF61B",
+      "Price": "199",
+      "CurrencyType" :"$",
+      "Type": "scanner",
+      "Description": "Designed for retail store associates and highly mobile workers",
+      "Rating": "3.8"
     }
     ]
     }
